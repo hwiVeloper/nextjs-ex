@@ -1,4 +1,4 @@
-import {useRouter} from 'next/Router';
+import {useRouter} from 'next/router';
 import Markdown from 'react-markdown';
 import Layout from '../../components/Layout';
 
